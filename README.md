@@ -1,3 +1,5 @@
+![kalli](https://user-images.githubusercontent.com/78202370/151009022-babf1e26-c43e-4e98-8135-a4c18b11f5d3.png)
+
 # vue-kalli
 
 ## Project setup
